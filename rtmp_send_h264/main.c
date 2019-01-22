@@ -1,16 +1,3 @@
-/**
- * Simplest Librtmp Send 264
- *
- * 雷霄骅，张晖
- * leixiaohua1020@126.com
- * zhanghuicuc@gmail.com
- * 中国传媒大学/数字电视技术
- * Communication University of China / Digital TV Technology
- * http://blog.csdn.net/leixiaohua1020
- *
- * 本程序用于将内存中的H.264数据推送至RTMP流媒体服务器。
- * This program can send local h264 stream to net server as rtmp live stream.
- */
 
 #include <stdio.h>
 #include "librtmp_send264.h"
